@@ -60,3 +60,5 @@ For hundreds of years, the writing systems in east asia were largely influenced 
 Regardless of the fact that in Japan, you'd say "Hito"; or that in Korean, you'd say "Saram"; or that in Vietnam, you'd say "Nguoi"; or that in Manchuria, you'd say "niyalma"; or any other language that used this writing system. It all still means **person**. And despite not knowing eachothers languages, you could still read and understand it*
 
 **Massive caveat being that many of these places created their own symbols for niche words, and the grammar also often didn't line up well (especially korean and japanese) which caused them to either fully drop the system (like in korea) or modify it so much that a lot of the meaning gets lost to someone who only knows the characters (like in japan)*
+
+[Back to Home](README.md)
