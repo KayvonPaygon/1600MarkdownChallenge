@@ -34,7 +34,7 @@ However, theres some benefits you wouldn't expect.
 
 Take this text for example:
 
-## في عام 2018، حدثت الكثير من الأحداث الهامة في العالم."
+## في عام 2018، حدثت الكثير من الأحداث الهامة في العالم.
 
 Unless you know arabic, you'll have no idea what this says. However, you may notice that subtle *2018* there. A number you can recognize and it is likely a *year*. So despite not knowing arabic, you can still dervie *some* meaning from this. 
 
